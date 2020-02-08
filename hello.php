@@ -1,2 +1,2 @@
 this is the first line
-this new feature line
+this is new feature line
